@@ -6,3 +6,10 @@ Finally we expored the dataset to a new csv file. The new dataset has 74 rows an
 
 ## Bottles sold per Zip code
 
+We used a scatter plot to visualize the Bottles sold per Zip code
+![Figure_1](https://user-images.githubusercontent.com/46052843/197285307-1a06b8c5-75af-417d-89f0-900a219cbc44.png)
+
+## Percentage sale per store
+We visualize the top 15 stores that had the most sales
+
+
