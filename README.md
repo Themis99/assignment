@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 
 ## Dataset
 We used the Liquor Sales dataset that contains the Liquor Sales in the state of Iowa in USA between 2012-2020. Then we used a query to get all the columns of the table between the years 2016-2019
@@ -11,5 +11,6 @@ We used a scatter plot to visualize the Bottles sold per Zip code
 
 ## Percentage sale per store
 We visualize the top 15 stores that had the most sales
+![Figure_2](https://user-images.githubusercontent.com/46052843/197285648-41d97f6c-a17e-4f8e-90fe-d6ad3d3a6971.png)
 
 
